@@ -1,3 +1,14 @@
+
+.img-box {
+  background-color: #66BFBF;
+  border-radius: 100%;
+  width: 150px;
+  padding: 23px;
+}
+
+.code-img {
+  width: inherit;
+}
 .center {
   display: block;
   margin-left: auto;
